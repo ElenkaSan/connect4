@@ -150,5 +150,9 @@ button:hover {
     margin: 1em;
     padding: 0;
   }
+
+  button {
+    display: flex;
+  }  
   
 }
